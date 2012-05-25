@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>xink.gradle</groupId>
+  <artifactId>gradle-ecj</artifactId>
+  <version>1.0-BETA</version>
+  <versioning>
+    <versions>
+      <version>1.0-BETA</version>
+    </versions>
+    <lastUpdated>20120525155318</lastUpdated>
+  </versioning>
+</metadata>
